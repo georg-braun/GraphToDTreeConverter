@@ -1,7 +1,7 @@
 {
   "name": "graphtodtreeconverter",
-  "version": "1.0.2",
-  "description": "Converts a given graph structure to a format that can be used by the dTree library\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C",
+  "version": "1.0.3",
+  "description": "Converts a given graph structure to a format that can be used by the dTree library",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
