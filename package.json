@@ -1,6 +1,6 @@
 {
   "name": "graphtodtreeconverter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Converts a given graph structure to a format that can be used by the dTree library\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,7 @@
 	"converter"
   ],
   "author": "Georg Braun",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://gitlab.com/georg.braun92/graphtodtreeconverter/issues"
   },
