@@ -1,6 +1,6 @@
 {
   "name": "graphtodtreeconverter",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Converts a given graph structure to a format that can be used by the dTree library",
   "main": "index.js",
   "scripts": {
